@@ -1,0 +1,16 @@
+{
+	"name": "My Recipes Web App",
+	"short_name": "My Recipes",
+	"description": "A website to store my recipes locally",
+	"display": "standalone",
+	"start_url": "./index.html",
+	"icons": [
+		{
+			"src": "./assets/images/icons/turkeyicon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"background_color": "#FF0000",
+	"theme_color": "#0000FF"
+}
