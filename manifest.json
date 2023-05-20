@@ -3,10 +3,10 @@
 	"short_name": "My Recipes",
 	"description": "A website to store my recipes locally",
 	"display": "standalone",
-	"start_url": "./index.html",
+	"start_url": "index.html",
 	"icons": [
 		{
-			"src": "./assets/images/icons/turkeyicon.png",
+			"src": "assets/images/icons/turkeyicon.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}
